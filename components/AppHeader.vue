@@ -39,7 +39,7 @@
             </div>
           </div>
           <div class="col col-lg-1">
-            <p>Sound</p>
+            <p>Sound H</p>
           </div>
         </div>
       </div>
